@@ -41,6 +41,7 @@ class Queue {
     return value;
   }
 
+  
 }
 
 module.exports = {
